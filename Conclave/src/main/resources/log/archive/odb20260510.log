@@ -1,0 +1,92 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-10 20:35:42 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 18360@Zubi99
+
+[2026-05-10 20:35:42 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-10 20:35:42 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-10 20:35:42 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-10 20:35:42 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-10 20:35:43 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-10 20:35:43 #7 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-10 20:48:54 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 12636@Zubi99
+
+[2026-05-10 20:48:54 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-10 20:48:54 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-10 20:48:54 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-10 20:48:54 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-10 20:48:54 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-10 20:48:54 #7 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-10 20:51:56 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 14928@Zubi99
+
+[2026-05-10 20:51:56 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-10 20:51:56 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-10 20:51:56 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-10 20:51:56 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-10 20:51:56 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-10 20:51:56 #7 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-10 21:03:15 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 30032@Zubi99
+
+[2026-05-10 21:03:15 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-10 21:03:15 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-10 21:03:15 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-10 21:03:15 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-10 21:03:15 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-10 21:03:15 #7 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+

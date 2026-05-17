@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-06 11:51:27 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 31144@Zubi99
+
+[2026-05-06 11:51:27 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-06 11:51:27 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-06 11:51:27 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-06 11:51:27 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-06 11:51:27 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-06 11:51:27 #7 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+

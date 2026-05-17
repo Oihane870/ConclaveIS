@@ -1,0 +1,1342 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:10:19 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 35360@Zubi99
+
+[2026-05-12 20:10:19 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:10:19 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:10:19 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:10:19 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:10:19 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:10:19 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:10:19 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:10:19 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:10:19 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:10:19 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:10:24 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:10:24 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:10:24 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:10:24 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:10:24 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:10:24 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:10:24 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:10:24 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:10:24 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:10:33 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:13:52 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 20660@Zubi99
+
+[2026-05-12 20:13:52 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:13:52 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:13:52 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:13:52 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:13:52 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:13:52 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:13:52 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:13:52 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:13:52 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:13:52 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:13:57 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:13:57 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:13:57 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:13:57 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:13:57 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:13:57 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:13:57 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:13:57 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:13:57 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:14:03 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:14:18 #22 type.registry] 
+New type domain.Voto
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:18:17 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 7140@Zubi99
+
+[2026-05-12 20:18:17 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:18:17 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:18:17 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:18:17 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:18:17 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:18:17 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:18:17 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:18:17 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:18:17 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:18:17 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:18:27 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:18:27 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:18:27 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:18:27 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:18:27 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:18:27 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:18:27 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:18:27 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:18:27 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:18:31 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:18:41 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:18:41 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:24:35 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 19284@Zubi99
+
+[2026-05-12 20:24:36 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:24:36 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:24:36 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:24:36 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:24:36 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:24:36 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:24:36 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:24:36 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:24:36 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:24:36 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:32:13 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 26544@Zubi99
+
+[2026-05-12 20:32:13 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:32:13 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:32:13 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:32:13 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:32:13 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:32:13 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:32:13 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:32:13 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:32:13 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:32:13 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:32:18 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:32:18 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:32:18 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:32:18 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:32:18 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:32:18 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:32:18 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:32:18 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:32:18 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:32:23 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:37:41 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 5212@Zubi99
+
+[2026-05-12 20:37:41 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:37:41 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:37:41 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:37:41 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:37:41 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:37:41 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:37:41 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:37:41 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:37:41 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:37:41 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:37:45 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:37:45 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:37:45 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:37:45 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:37:45 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:37:45 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:37:45 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:37:45 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:37:45 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:38:01 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:38:20 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:38:20 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:41:22 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 28700@Zubi99
+
+[2026-05-12 20:41:22 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:41:22 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:41:22 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:41:22 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:41:22 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:41:22 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:41:22 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:41:22 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:41:22 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:41:22 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:41:27 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:41:27 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:41:27 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:41:27 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:41:27 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:41:27 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:41:27 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:41:27 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:41:27 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:41:41 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:42:26 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:42:26 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:43:20 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 18500@Zubi99
+
+[2026-05-12 20:43:20 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:43:20 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:43:20 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:43:20 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:43:20 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:43:20 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:43:20 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:43:20 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:43:20 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:43:20 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:43:23 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:43:23 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:43:23 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:43:23 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:43:23 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:43:23 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:43:23 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:43:23 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:43:23 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:43:33 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:43:41 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:43:41 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:47:13 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 13876@Zubi99
+
+[2026-05-12 20:47:13 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:47:13 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:47:13 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:47:13 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:47:13 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:47:13 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:47:13 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:47:13 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:47:13 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:47:13 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:47:28 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:47:28 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:47:28 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:47:28 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:47:28 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:47:28 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:47:28 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:47:28 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:47:28 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:47:42 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:48:02 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:48:02 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:50:09 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 24072@Zubi99
+
+[2026-05-12 20:50:09 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:50:09 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:50:09 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:50:09 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:50:09 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:50:09 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:50:09 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:50:09 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:50:09 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:50:09 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:50:15 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:50:15 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:50:15 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:50:15 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:50:15 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:50:15 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:50:15 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:50:15 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:50:15 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:50:27 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:50:38 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:50:38 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:51:50 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 31312@Zubi99
+
+[2026-05-12 20:51:50 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:51:50 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:51:50 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:51:50 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:51:50 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:51:50 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:51:50 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:51:50 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:51:50 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:51:50 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:51:55 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:51:55 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:51:55 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:51:55 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:51:55 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:51:55 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:51:55 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:51:55 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:51:55 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:52:03 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:52:18 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:52:18 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:53:50 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 32084@Zubi99
+
+[2026-05-12 20:53:51 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:53:51 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:53:51 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:53:51 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:53:51 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:53:51 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:53:51 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:53:51 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:53:51 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:53:51 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:53:55 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:53:55 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:53:55 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:53:55 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:53:55 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:53:55 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:53:55 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:53:55 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:53:55 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:53:59 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:54:05 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:54:05 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:56:48 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 32060@Zubi99
+
+[2026-05-12 20:56:48 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:56:48 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:56:48 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:56:48 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:56:48 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:56:48 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:56:48 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:56:48 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:56:48 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:56:48 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:56:53 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:56:53 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:56:53 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:56:53 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:56:53 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:56:53 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:56:53 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:56:53 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:56:53 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:57:01 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:57:14 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:57:14 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 20:59:32 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 37504@Zubi99
+
+[2026-05-12 20:59:32 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 20:59:32 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 20:59:32 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 20:59:32 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 20:59:32 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 20:59:32 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 20:59:32 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 20:59:32 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 20:59:32 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 20:59:32 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 20:59:39 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 20:59:39 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 20:59:39 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 20:59:39 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 20:59:39 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 20:59:39 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 20:59:39 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 20:59:39 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 20:59:39 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 20:59:48 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 20:59:55 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 20:59:55 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 21:00:58 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 35488@Zubi99
+
+[2026-05-12 21:00:58 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 21:00:58 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 21:00:58 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 21:00:58 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 21:00:58 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 21:00:58 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 21:00:58 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 21:00:58 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 21:00:58 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 21:00:58 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 21:01:01 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 21:01:01 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 21:01:01 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 21:01:01 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 21:01:01 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 21:01:01 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 21:01:01 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 21:01:01 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 21:01:01 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 21:01:06 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 21:01:44 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 26608@Zubi99
+
+[2026-05-12 21:01:44 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 21:01:44 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 21:01:44 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 21:01:44 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 21:01:44 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 21:01:44 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 21:01:44 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 21:01:44 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 21:01:44 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 21:01:44 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 21:01:47 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 21:01:47 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 21:01:47 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 21:01:47 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 21:01:47 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 21:01:47 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 21:01:47 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 21:01:47 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 21:01:47 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 21:01:52 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 21:05:49 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 23528@Zubi99
+
+[2026-05-12 21:05:49 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 21:05:49 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 21:05:49 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 21:05:49 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 21:05:49 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 21:05:49 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 21:05:49 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 21:05:49 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 21:05:49 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 21:05:49 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 21:05:56 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 21:05:56 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 21:05:56 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 21:05:56 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 21:05:56 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 21:05:56 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 21:05:56 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 21:05:56 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 21:05:56 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 21:06:02 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 21:06:14 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 21:06:14 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 21:13:49 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 32920@Zubi99
+
+[2026-05-12 21:13:49 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 21:13:49 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 21:13:49 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 21:13:49 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 21:13:49 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 21:13:49 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 21:13:49 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 21:13:49 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 21:13:49 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 21:13:49 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 21:13:55 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 21:13:55 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 21:13:55 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 21:13:55 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 21:13:55 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 21:13:55 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 21:13:55 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 21:13:55 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 21:13:55 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 21:14:00 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 21:14:17 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 21:14:17 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 21:18:07 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 34164@Zubi99
+
+[2026-05-12 21:18:07 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 21:18:07 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 21:18:07 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 21:18:07 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 21:18:07 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 21:18:07 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 21:18:07 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 21:18:07 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 21:18:07 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 21:18:07 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 21:18:07 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 21:18:07 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 21:18:07 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 21:18:07 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 21:18:07 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 21:18:07 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 21:18:07 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-12 21:21:20 #1 store] 
+Database 'C:\Users\zubil\OneDrive\Escritorio\universidad\ISpro2\Market26\Market26\src\main\resources\products.temp' is opened by 16848@Zubi99
+
+[2026-05-12 21:21:20 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-12 21:21:20 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-12 21:21:20 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-12 21:21:20 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-12 21:21:20 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-12 21:21:20 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-12 21:21:20 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-12 21:21:20 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-12 21:21:20 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-12 21:21:20 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-12 21:21:24 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-12 21:21:24 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-12 21:21:24 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-12 21:21:24 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-12 21:21:24 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-12 21:21:24 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-12 21:21:24 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-12 21:21:24 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-12 21:21:24 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-12 21:21:31 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-12 21:21:38 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-12 21:21:38 #23 type] 
+Type domain.Voto is not enhanced.
+
