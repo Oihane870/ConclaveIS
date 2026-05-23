@@ -1,0 +1,543 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 11:58:02 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 26812@Zubi99
+
+[2026-05-17 11:58:02 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-17 11:58:02 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 11:58:02 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-17 11:58:02 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 11:58:02 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-17 11:58:02 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-17 11:58:02 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 11:58:02 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 11:58:02 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-17 11:58:02 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-17 12:03:52 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-17 12:03:52 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-17 12:03:52 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-17 12:03:52 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-17 12:03:52 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-17 12:03:52 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-17 12:03:52 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-17 12:03:52 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-17 12:03:52 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-17 12:04:25 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-17 12:05:06 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-17 12:05:06 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 12:08:26 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 9416@Zubi99
+
+[2026-05-17 12:08:26 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-17 12:08:26 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 12:08:26 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-17 12:08:26 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 12:08:26 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-17 12:08:26 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-17 12:08:26 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 12:08:26 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 12:08:26 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-17 12:08:26 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-17 12:08:41 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-17 12:08:41 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-17 12:08:41 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-17 12:08:41 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-17 12:08:41 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-17 12:08:41 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-17 12:08:41 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-17 12:08:52 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-17 12:08:52 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-17 12:08:59 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-17 12:09:18 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-17 12:09:18 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 12:19:21 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 24360@Zubi99
+
+[2026-05-17 12:19:21 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-17 12:19:21 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 12:19:21 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-17 12:19:21 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 12:19:21 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-17 12:19:21 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-17 12:19:21 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 12:19:21 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 12:19:21 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-17 12:19:21 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-17 12:22:05 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-17 12:22:05 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-17 12:22:05 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-17 12:22:05 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-17 12:22:05 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-17 12:22:05 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-17 12:22:05 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-17 12:22:05 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-17 12:22:05 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-17 12:22:11 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-17 12:22:23 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-17 12:22:23 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 12:24:08 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 19568@Zubi99
+
+[2026-05-17 12:24:08 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-17 12:24:08 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 12:24:08 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-17 12:24:08 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 12:24:08 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-17 12:24:08 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-17 12:24:08 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 12:24:08 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 12:24:08 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-17 12:24:08 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-17 12:24:14 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-17 12:24:14 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-17 12:24:14 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-17 12:24:14 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-17 12:24:14 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-17 12:24:14 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-17 12:24:14 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-17 12:24:14 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-17 12:24:14 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-17 12:24:23 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-17 12:24:32 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-17 12:24:32 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:22:30 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 28516@Zubi99
+
+[2026-05-17 15:22:30 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-17 15:22:30 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:22:30 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-17 15:22:30 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:22:30 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-17 15:22:30 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-17 15:22:30 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:22:30 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 15:22:30 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-17 15:22:30 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:27:01 #1 server] 
+Server on port 6136 has started by 20596@Zubi99
+
+[2026-05-17 15:27:33 #2 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\src\main\resources\products.temp' is opened by 20596@Zubi99
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:27:33 #1 type.registry] 
+New type domain.Seller
+
+[2026-05-17 15:27:33 #2 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:27:33 #3 type.registry] 
+New type domain.Sale
+
+[2026-05-17 15:27:33 #4 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:27:33 #5 type.registry] 
+New type domain.Persona
+
+[2026-05-17 15:27:33 #6 type.registry] 
+New type domain.Cardenal
+
+[2026-05-17 15:27:33 #7 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:27:33 #8 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 15:27:33 #9 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-17 15:27:33 #10 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-17 15:27:37 #3 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\src\main\resources\products.temp' is closed by 20596@Zubi99
+
+[2026-05-17 15:42:45 #4 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\src\main\resources\products.temp' is opened by 20596@Zubi99
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:42:45 #1 type.registry] 
+New type domain.Seller
+
+[2026-05-17 15:42:45 #2 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:42:45 #3 type.registry] 
+New type domain.Sale
+
+[2026-05-17 15:42:45 #4 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:42:45 #5 type.registry] 
+New type domain.Persona
+
+[2026-05-17 15:42:45 #6 type.registry] 
+New type domain.Cardenal
+
+[2026-05-17 15:42:45 #7 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:42:45 #8 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 15:42:45 #9 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-17 15:42:45 #10 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:47:20 #1 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:47:20 #2 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:47:20 #3 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:47:20 #4 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 15:47:20 #5 type.user] 
+Enhancement of type domain.Persona is old and cannot be used (8021773211960212902:4486236398244696486)
+
+[2026-05-17 15:47:20 #6 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:47:20 #7 type] 
+Type domain.Cardenal is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:48:01 #1 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:48:01 #2 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:48:01 #3 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:48:01 #4 type] 
+Type domain.Cardenal is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:49:18 #1 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:49:18 #2 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:49:18 #3 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:49:18 #4 type] 
+Type domain.Cardenal is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:50:29 #1 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:50:29 #2 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:50:29 #3 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:50:29 #4 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 15:52:07 #8 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\src\main\resources\products.temp' is closed by 20596@Zubi99
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:55:12 #1 server] 
+Server on port 6136 has started by 18184@Zubi99
+
+[2026-05-17 15:55:25 #2 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\src\main\resources\products.temp' is opened by 18184@Zubi99
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:55:26 #1 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:55:26 #2 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:55:26 #3 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:55:26 #4 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 15:56:04 #3 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\src\main\resources\products.temp' is closed by 18184@Zubi99
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-17 15:57:50 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 22132@Zubi99
+
+[2026-05-17 15:57:50 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-17 15:57:50 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-17 15:57:50 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-17 15:57:50 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-17 15:57:50 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-17 15:57:50 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-17 15:57:50 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-17 15:57:50 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-17 15:57:50 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-17 15:57:50 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-17 16:19:56 #4 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\products.temp' is opened by 18184@Zubi99
+
+[2026-05-17 16:23:44 #5 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\products.temp' is closed by 18184@Zubi99
+
+[2026-05-17 16:24:36 #6 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\products.temp' is opened by 18184@Zubi99
+
+[2026-05-17 16:25:48 #7 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\products.temp' is closed by 18184@Zubi99
+
+[2026-05-17 16:26:49 #8 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\products.temp' is opened by 18184@Zubi99
+
+[2026-05-17 16:28:36 #9 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\db\products.temp' is closed by 18184@Zubi99
+

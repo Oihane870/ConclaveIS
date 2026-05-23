@@ -1,0 +1,213 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-21 20:14:47 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 30600@Zubi99
+
+[2026-05-21 20:14:47 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-21 20:14:47 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-21 20:14:47 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-21 20:14:47 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-21 20:14:47 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-21 20:14:47 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-21 20:14:47 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-21 20:14:47 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-21 20:14:47 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-21 20:14:47 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-21 20:14:59 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-21 20:14:59 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-21 20:14:59 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-21 20:14:59 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-21 20:14:59 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-21 20:14:59 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-21 20:14:59 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-21 20:14:59 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-21 20:14:59 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-21 20:15:04 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-21 20:15:17 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-21 20:15:17 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-21 20:20:14 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 13316@Zubi99
+
+[2026-05-21 20:20:15 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-21 20:20:15 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-21 20:20:15 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-21 20:20:15 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-21 20:20:15 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-21 20:20:15 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-21 20:20:15 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-21 20:20:15 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-21 20:20:15 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-21 20:20:15 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-21 20:20:21 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-21 20:20:21 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-21 20:20:21 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-21 20:20:21 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-21 20:20:21 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-21 20:20:21 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-21 20:20:21 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-21 20:20:21 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-21 20:20:21 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-21 20:20:25 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-21 20:20:32 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-21 20:20:32 #23 type] 
+Type domain.Voto is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-05-21 20:24:37 #1 store] 
+Database 'C:\Users\zubil\git\repository\Conclave\src\main\resources\products.temp' is opened by 30688@Zubi99
+
+[2026-05-21 20:24:37 #2 type.registry] 
+New type domain.Seller
+
+[2026-05-21 20:24:37 #3 type] 
+Type domain.Seller is not enhanced.
+
+[2026-05-21 20:24:37 #4 type.registry] 
+New type domain.Sale
+
+[2026-05-21 20:24:37 #5 type] 
+Type domain.Sale is not enhanced.
+
+[2026-05-21 20:24:37 #6 type.registry] 
+New type domain.Persona
+
+[2026-05-21 20:24:37 #7 type.registry] 
+New type domain.Cardenal
+
+[2026-05-21 20:24:37 #8 type] 
+Type domain.Persona is not enhanced.
+
+[2026-05-21 20:24:37 #9 type] 
+Type domain.Cardenal is not enhanced.
+
+[2026-05-21 20:24:37 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2026-05-21 20:24:37 #11 type.registry] 
+New type java.util.ArrayList<domain.Sale>
+
+[2026-05-21 20:24:41 #12 type.registry] 
+New type domain.Conclave
+
+[2026-05-21 20:24:41 #13 type] 
+Type domain.Conclave is not enhanced.
+
+[2026-05-21 20:24:41 #14 type.registry] 
+New type domain.Papa
+
+[2026-05-21 20:24:41 #15 type.registry] 
+New type domain.Votacion
+
+[2026-05-21 20:24:41 #16 type] 
+Type domain.Papa is not enhanced.
+
+[2026-05-21 20:24:41 #17 type] 
+Type domain.Votacion is not enhanced.
+
+[2026-05-21 20:24:41 #18 type.registry] 
+New type java.util.HashMap<java.lang.String,java.lang.Integer>
+
+[2026-05-21 20:24:41 #19 type.registry] 
+New type java.util.ArrayList<domain.Cardenal>
+
+[2026-05-21 20:24:41 #20 type.registry] 
+New type java.util.ArrayList<domain.Votacion>
+
+[2026-05-21 20:24:46 #21 type.registry] 
+New type java.util.HashMap<java.lang.Object,java.lang.Object>
+
+[2026-05-21 20:24:52 #22 type.registry] 
+New type domain.Voto
+
+[2026-05-21 20:24:52 #23 type] 
+Type domain.Voto is not enhanced.
+
